@@ -1,0 +1,39 @@
+.my-class {
+    width: 700px;
+    border-radius: 25px;
+    background-color: #ececec;
+    padding: 40px;
+    height: 300px;
+    box-shadow: 0px 12px 16px #594242;
+    font-family: 'Golos Text', sans-serif;
+}
+
+.mysection {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    flex-direction: column;
+    gap: 40px;
+}
+
+.firstSection {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    flex-direction: column;
+    gap: 40px;
+}
+
+.mysection2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    flex-direction: column;
+    gap: 40px;
+}
